@@ -8,8 +8,8 @@ Built and maintained by **Lipedema Surgical Solutions** ([lipedema.net](https://
 
 ## View the page
 
-🔗 **Live page:** _add your GitHub Pages link here once it's turned on_
-(it will look like `https://YOUR-USERNAME.github.io/lipedema-consensus/`)
+🔗 **Live page:** <https://catval89.github.io/lipedema-consensus/>
+🎨 **Social graphics gallery:** <https://catval89.github.io/lipedema-consensus/gallery.html>
 
 To preview locally, just open `index.html` in any web browser.
 
